@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    background-color: #389826;
+    /* color: #325332; */
+}
+.btnone {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ margin: 0px 331px 0px 331px;
+  cursor: pointer;
+}

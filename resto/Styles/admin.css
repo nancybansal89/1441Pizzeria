@@ -1,0 +1,160 @@
+body {
+    
+    
+    
+
+background-position: center;
+  background-repeat: no-repeat;
+background-size: cover;}
+.bar {
+    background: green;
+    color: white;
+    font-size: 40px;
+	text-transform: uppercase;
+}
+.btnone {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.btnthre {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.btntwo {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.btnfor {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.bt {
+    padding: 41px 0px 26px 369px;
+}
+h1 {
+    padding: 0px 0px 0px 545px;
+    /* color: white; */
+    font-family: fantasy;
+background: white;}
+
+
+
+
+
+
+
+form {
+    text-align: center;
+	    background-color: cornsilk;
+}
+input[type="text"] {
+    font-size: 30px;
+}
+
+
+
+input[type="file"] {
+    font-size: 30px;
+color: green;}
+input[type="submit"] {
+    color: white;
+    background-color: green;
+    /* size: 14px; */
+    font-size: 32px;
+}
+footer {
+    padding: 372px 0px 0px 0px;
+    text-align: right;
+}
+table {
+    background-color: ghostwhite;
+    /* float: none; */
+    /* padding: 0px 0px 3px 0px; */
+    margin: 50px 0px 0px 550px;
+    /* width: 14px; */
+}
+.pie-chart {
+	background:
+		radial-gradient(
+			circle closest-side,
+			transparent 66%,
+			white 0
+		),
+		conic-gradient(
+			from 56deg,
+			#80a079 0,
+			#80a079 2.1%,
+			#c1d9b4 0,
+			#c1d9b4 18.8%,
+			#f0bf7a 0,
+			#f0bf7a 42.8%,
+			#e89b9b 0,
+			#e89b9b 74.1%,
+			#ffd5ad 0,
+			#ffd5ad 100%
+	);
+	position: relative;
+	width: 500px;
+	min-height: 350px;
+	margin: 0;
+	outline: 1px solid #ccc;
+}
+.pie-chart h2 {
+	position: absolute;
+	margin: 1rem;
+}
+.pie-chart figcaption {
+	position: absolute;
+	bottom: 1em;
+	right: 1em;
+	font-size: smaller;
+	text-align: right;
+}
+.pie-chart span:after {
+	display: inline-block;
+	content: "";
+	width: 0.8em;
+	height: 0.8em;
+	margin-left: 0.4em;
+	height: 0.8em;
+	border-radius: 0.2em;
+	background: currentColor;
+}
+figure.pie-chart {
+    /* text-align: center; */
+    float: center;
+    /* padding: 0px 0px 0px 0px; */
+margin: 0px 0px 0px 526px;}
+

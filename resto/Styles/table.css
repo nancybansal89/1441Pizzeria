@@ -1,0 +1,102 @@
+
+  
+  
+ 
+ 
+  
+
+.main
+{
+	
+    margin: 0px 362px 0px 362px;
+    text-align: center;
+    background-color: #F5F5F5;
+    opacity: 0.8;
+        border-radius: 74px;
+    padding: 9px 0px 25px 0px;
+	
+}
+.main,h1,label{font-family: "Lucida Console", "Courier New", monospace;}
+ input[type=submit]{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;}
+.two{
+	margin: 0px 362px 0px 362px;
+    text-align: center;
+    background-color: #F5F5F5;
+    opacity: 0.8;
+        border-radius: 74px;
+    padding: 9px 0px 25px 0px;
+	
+}
+
+.d {
+    text-align: center;
+}
+
+.me {
+	background-color:  #f44336;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  
+  cursor: pointer;
+  
+  
+  
+  
+    padding: 12px 20px 12px 20px;
+    border-radius: 12px;
+}
+.mo {
+	background-color:  #f44336;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  
+  cursor: pointer;
+  
+  
+  
+  
+    padding: 12px 20px 12px 20px;
+    border-radius: 12px;
+}
+.row {
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;}
+
+table, th, td {
+  border: 1px solid;
+   margin-left: auto;
+  margin-right: auto;
+    background-color: #F5F5F5;
+    opacity: 1.0;
+       
+    padding: 9px 0px 25px 0px;
+}
+
+
+
+
+
+
+
+div {
+padding: 25px 0px 25px 0px;}
+
